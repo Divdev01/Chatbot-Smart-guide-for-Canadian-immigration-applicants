@@ -21,6 +21,8 @@ chainlit run main.py -w
 ## main_memory.py -  Chatbot can remember previous 2 conversation (limited to 2 because of the token limit. But can add more)
 
 To run main_memory.py, use the following command
+chainlit run main_memory.py -w
+
 ## SAMPLE OUTPUT
 ![Screenshot](sample_output.png)
 
