@@ -26,6 +26,6 @@ chainlit run main_memory.py -w
 ## SAMPLE OUTPUT
 ![Screenshot](sample_output.png)
 
-chainlit run main_memory.py -w
+
 
 
